@@ -22,7 +22,7 @@
 |    处理器     |          i7-8550U           |
 |     核显      |    Intel Graphics UHD620    |
 |     独显      |    GeForce MX150（已屏蔽）    |
-|     内存      |     8G×2 DDR4 2400MHz       |
+|     内存      |     16G×2 DDR4 2400MHz       |
 |     硬盘      |       120G SSD/1T HDD       |
 |     声卡      |       Realtek ALC294        |
 |   无线网卡     |        BCM943602CS      |
@@ -32,7 +32,7 @@
 ## 二、正常工作
 1. CPU变频
 2. 核显硬件加速，独显无法驱动已做屏蔽
-3. 声卡输出（~~自编译AppleALC驱动~~  已合并至[`AppleALC`](https://github.com/acidanthera/AppleALC)，LayoutID=66）
+3. 声卡输出（~~自编译AppleALC驱动~~  已合并至[`AppleALC`](https://github.com/acidanthera/AppleALC)，LayoutID=66，声卡3.5mm无音频输出 待修复）
 4. HDMI输出
 5. USB
 6. WIFI/蓝牙(已更换BCM943602CS,原装AR9565可驱动,有需要可去远景论坛查找）
