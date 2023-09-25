@@ -1,4 +1,5 @@
-# macOS Mojave/Catalina/Big Sur For ASUS-FL8000UQ-Hackintosh
+# macOS Mojave/ASUS-FL8000U-Hackintosh
+# 此分支仅针对8000U进行修改和优化
 
 # BIOS设置：
 
@@ -20,8 +21,8 @@
 |--------------|-----------------------------|
 |    处理器     |          i7-8550U           |
 |     核显      |    Intel Graphics UHD620    |
-|     独显      |    GeForce 940MX（已屏蔽）    |
-|     内存      |     4G×2 DDR4 2400MHz       |
+|     独显      |    GeForce MX150（已屏蔽）    |
+|     内存      |     8G×2 DDR4 2400MHz       |
 |     硬盘      |       120G SSD/1T HDD       |
 |     声卡      |       Realtek ALC294        |
 |   无线网卡     |        BCM943602CS      |
